@@ -1,0 +1,8 @@
+{
+  "name": "my-tool",
+  "version": "4.0.0",
+  "main": "https://raw.githubusercontent.com/padlanfaitulrahman-droid/hama-ngapain/main/dist/main.js",
+  "hash": "6315a05b270906c9cc5085564b36dc1749fa7650830e6e4ac43a46b4e5f35cc7",
+  "updatedAt": "2026-09-27",
+  "changelog": "initial"
+}
